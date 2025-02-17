@@ -159,6 +159,7 @@ Components : DC power supply, Mosfet(CMOSN,CMOSP) ,resistors.
 Theory : The Common-Source (CS) Amplifier with a Current Source Load is a circuit where the usual passive resistor load is replaced by a current source (M2) for the MOSFET (M1). This change significantly improves the amplifier's performance, especially by increasing its gain and expanding its operating range. It's commonly used in integrated circuits because it offers better gain and overall performance compared to the traditional CS amplifier with a resistor load.
 
 Operation:
+
 •Amplification Mechanism:
   The input signal adjusts the gate-source voltage (Vgs) of M1, which in turn controls the drain current (Id). This current is mirrored by the current source (M2), which helps provide high output impedance and 
   boosts the overall gain.
