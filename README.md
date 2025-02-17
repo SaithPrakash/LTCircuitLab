@@ -10,7 +10,7 @@ Components : CMOSN,resistors,DC power supply.
 
 Theory : A Common-Source (CS) Amplifier is a fundamental MOSFET-based circuit used for voltage amplification. It operates in the saturation region, where a small input voltage variation at the gate controls a larger drain current. A load resistor at the drain develops the output voltage, making the amplifier suitable for signal processing. Key components include a MOSFET, biasing resistors, coupling capacitors, and a power supply. The amplifier's gain, bandwidth, and stability depend on MOSFET parameters and circuit design, with width variations affecting current drive and frequency response.
 
-Procedure :
+# Procedure :
 
 # design
 
